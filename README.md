@@ -4,12 +4,10 @@
 </div>
 
 <div align="center">
-  
+  [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/abdallah-abis/)
+  [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/Dev_abis)
+  <br />
   [![Gmail Badge](http://img.shields.io/badge/-Abis.abdallah@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:Abis.abdallah@gmail.com)](mailto:Abis.abdallah@gmail.com)
-  [![Linkedin Badge](http://img.shields.io/badge/-Connect_with_Abdallah_Abis-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdallah-abis/)](https://www.linkedin.com/in/abdallah-abis/)
-  [![Twitter Badge](http://img.shields.io/badge/-follow_me_@Dev__Abis-white?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/Dev_abis)](https://twitter.com/Dev_abis)
-  
-
 </div>
 
 <div align="center">
